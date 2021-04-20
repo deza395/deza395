@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy FullStack Developer 🤓  y  estudio para ser Licenciada en ciencia de datos 💪
+
+Aprendi diferentens lenguajes de programacion y herramientas como:
+
+-HTML
+-CSS
+-JavaScript
+-Python
+-SQL
+-React
+-Django
+-Laravel 
+-Adobe XD
+-Adove Illutrator
+
