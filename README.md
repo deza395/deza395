@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 Soy FullStack Developer 🤓  y  estudio para ser Licenciada en ciencia de datos 💪
 
+Mi sueño es hacer los mejores modelos predictivos y que nadie les de bola
+
 Aprendi diferentens lenguajes de programacion y herramientas como:
 
 - HTML
