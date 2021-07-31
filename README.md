@@ -1,3 +1,6 @@
+"todas las cosas de la naturaleza ocurren matematicamente"
+-Rene Descartes
+
 ### Hola, Soy Débora 👋
 
 <!--
