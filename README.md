@@ -10,7 +10,7 @@
 
  <p >🔭Actualmente me encuentro Trabajando como Desarrolladora freelance utilizando lenguajes como php y javascript o sistemas de gestión de contenido como Wordpress</p>
  <p>👨‍💻 Siempre estoy buscando nuevos proyectos en los que trabajar y nuevas personas con las que colaborar.No dudes en contactarme si crees que encajaría bien en tu proyecto.</p>
-📫Pueden comunicarse conmigo en **debora.ed.zarate@gmail.com**
+📫Pueden comunicarse conmigo en debora.ed.zarate@gmail.com
 
 
 
