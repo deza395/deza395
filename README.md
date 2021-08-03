@@ -2,10 +2,9 @@
 
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Debora</h1>
-<h2 align="center" font-style: "italic">Desarrolladora web | Aprendiz en ciencia de datos | Programadora de Python</h2>
-<br>
+<h3 align="center" font-style: "italic">Desarrolladora web | Aprendiz en ciencia de datos | Programadora de Python</h3>
 
-<h3  align="center">"Todas las cosas de la naturaleza ocurren matematicamente" <span>  -Rene Descartes</span></h3>
+<h4  align="center">"Todas las cosas de la naturaleza ocurren matematicamente" <span>  -Rene Descartes</span></h4>
 <br>
 
  <p >🔭Actualmente me encuentro Trabajando como Desarrolladora freelance utilizando lenguajes como php y javascript o sistemas de gestión de contenido como Wordpress</p>
