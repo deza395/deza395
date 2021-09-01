@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Debora</h1>
-<h3 align="center" font-style: "italic">Desarrolladora web | Aprendiz en ciencia de datos | Programadora de Python</h3>
+<h3 align="center" font-style: "italic">Desarrolladora web | Estudiante en ciencia de datos | Aprendiz  UX/UI</h3>
 
 <h4  align="center">"Todas las cosas de la naturaleza ocurren matematicamente" <span>  -Rene Descartes</span></h4>
 <br>
